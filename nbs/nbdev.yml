@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "miniaig"
+  site-url: "https://gsgbills.github.io/miniaig"
+  description: "miniaig"
+  repo-branch: main
+  repo-url: "https://github.com/gsgbills/miniaig"
